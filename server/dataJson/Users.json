@@ -1,0 +1,23 @@
+[
+  {
+    "FirstName": "System",
+    "LastName": "Administrator",
+    "CreatedDate": "2024-02-04T12:00:00Z",
+    "SessionTimeOut": 60,
+    "IsAdmin": true
+  },
+  
+    {
+      "FirstName": "ori",
+      "LastName": "meyuhas",
+      "CreatedDate": "2024-02-04T13:45:00Z",
+      "SessionTimeOut": 30
+    },
+    {
+        "FirstName": "dana",
+        "LastName": "cohen",
+        "CreatedDate": "2024-02-04T15:25:00Z",
+        "SessionTimeOut": 25
+      }
+  ]
+  

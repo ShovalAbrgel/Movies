@@ -1,0 +1,49 @@
+.login-container {
+  width: 400px;
+  height: 400px;
+  margin: 50px auto 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.login-button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: rosybrown;
+  color: #fff;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: lightcoral;
+}
+
+.create-account-link {
+  text-align: center;
+}
+
+.create-account-button {
+  background-color: transparent;
+  border: none;
+  color: #007bff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.create-account-button:hover {
+  color: #0056b3;
+}

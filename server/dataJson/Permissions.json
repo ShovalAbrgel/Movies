@@ -1,0 +1,19 @@
+[
+    {
+      "Permissions": [ 
+      "View Subscriptions",
+      "Create Subscriptions",
+      "Delete Subscriptions",
+      "View Movies",
+      "Create Movies",
+      "Delete Movies"
+    ]
+    },
+    {
+      "Permissions": ["View Subscriptions", "Create Subscriptions"]
+    },
+    {
+      "Permissions": ["Create Movies","View Movies"]
+    }
+  ]
+  
